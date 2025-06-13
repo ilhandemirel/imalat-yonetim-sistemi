@@ -2,7 +2,7 @@
 
 # İmalat İş Emri Yönetim ve Takip Sistemi
 
-**KOBİ Ölçekli Metal İşleme ve CNC Atölyeleri için Yalın ve Etkili bir Çözüm**
+**Üretim Yapan KOBİ'ler için Yalın İş Emri Yönetim Platformu**
 
 </div>
 
