@@ -28,7 +28,7 @@ Bu proje, Web Tabanlı Programlama dersi kapsamında, yalın PHP ve MySQL kullan
 
 ### 🎯 Proje Hakkında
 
-Bu sistem, özellikle siparişe dayalı veya partiler halinde üretim yapan **metal işleme, CNC ve imalat atölyeleri** gibi KOBİ'lerin karşılaştığı temel sorunlara çözüm getirmektedir. Excel tabloları, not defterleri ve sözlü talimatlarla yürütülen kaotik iş akışlarının neden olduğu bilgi kaybı, izlenebilirlik eksikliği ve verimsizlik gibi problemleri ortadan kaldırmayı hedefler.
+Bu sistem, siparişe dayalı veya partiler halinde üretim yapan KOBİ'lerin (Küçük ve Orta Büyüklükteki İşletmeler) karşılaştığı en temel sorunlara çözüm getirmektedir. Mobilya atölyelerinden tekstil üreticilerine, makine imalatçılarından butik elektronik montaj tesislerine kadar geniş bir yelpazedeki işletmelerin, Excel tabloları, not defterleri ve sözlü talimatlarla yürüttüğü kaotik iş akışlarının neden olduğu bilgi kaybı, izlenebilirlik eksikliği ve verimsizlik gibi problemleri ortadan kaldırmayı hedefler.
 
 Sistem, tüm iş emirlerini merkezi bir platformda toplayarak, bir işin hangi aşamada olduğunu, kim tarafından üretildiğini, hangi malzemelerin kullanıldığını ve ne zaman teslim edileceğini "bir bakışta" görme imkanı sunar.
 
