@@ -96,6 +96,8 @@ Uygulamanın 1-3 dakikalık kullanımını ve temel özelliklerini gösteren vid
 
 ![Yönetim Paneli](screenshots/dashboard.png)
 
+
+
 #### **İş Emri Detay Sayfası**
 *Bir iş emrine ait tüm genel bilgileri, üretim operasyonlarını ve durumlarını gösteren detaylı görünüm.*
 
