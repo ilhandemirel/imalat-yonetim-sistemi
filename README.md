@@ -85,7 +85,7 @@ Projenin canlı demosuna aşağıdaki adresten erişilebilir. Tüm özellikleri 
 
 Uygulamanın 1-3 dakikalık kullanımını ve temel özelliklerini gösteren videoya aşağıdaki linkten ulaşabilirsiniz:
 
-➡️ **[Projeyi İncele (YouTube Video Linki)](https://YOUTUBE_VEYA_GOOGLE_DRIVE_LINKINIZI_BURAYA_YAPIŞTIRIN)**
+➡️ **[Projeyi İncele (YouTube Video Linki)](https://youtu.be/qMrwB28t7GY)**
 
 ---
 
