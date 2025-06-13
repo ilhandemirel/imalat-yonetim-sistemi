@@ -53,7 +53,7 @@ Proje, harici bir kütüphane veya framework kullanılmadan **yalın (plain)** t
 
 * **Arka Uç:** PHP 8+
 * **Veritabanı:** MySQL
-* **Ön Uç:** HTML5, Bootstrap 5, Yalın JavaScript
+* **Ön Uç:** HTML5
 
 ---
 
