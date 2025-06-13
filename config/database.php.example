@@ -1,0 +1,22 @@
+<?php
+// config/database.php.example
+
+// BU BİR ÖRNEK YAPILANDIRMA DOSYASIDIR.
+// Projeyi kurmak için bu dosyanın bir kopyasını oluşturun,
+// adını 'database.php' olarak değiştirin ve kendi veritabanı bilgilerinizi girin.
+
+define('DB_HOST', 'localhost');
+define('DB_USERNAME', 'root'); // Kendi veritabanı kullanıcı adınız
+define('DB_PASSWORD', '');     // Kendi veritabanı parolanız
+define('DB_NAME', 'imalat_yonetim_sistemi'); // Oluşturduğunuz veritabanının adı
+
+$mysqli = @new mysqli(DB_HOST, DB_USERNAME, DB_PASSWORD, DB_NAME);
+
+if ($mysqli->connect_error) {
+    die('Veritabanı bağlantı hatası: Lütfen config/database.php dosyanızı kontrol edin.');
+}
+
+if (!$mysqli->set_charset("utf8mb4")) {
+    die('Karakter seti ayarlanırken hata oluştu: ' . $mysqli->error);
+}
+?>
